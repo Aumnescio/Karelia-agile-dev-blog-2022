@@ -51,8 +51,37 @@ Updated clockify.
 
 -> Overall time spent: 3h 57 min
 
+## Wednesday, 9th November at 15:00 (03:00 PM)
 
-## Sprintti 1 (05.11 - 11.11)
+Watched the lecture, it went over some Azure stuff. I feel okay about
+using Azure.
+
+At 13:30 our group held a meeting. Everyone was present.
+- Herbert
+- Jasu
+- Jasper
+- Panu
+- Asmo
+
+I reserved the Teams meeting date and time for our group on the 10th,
+from 09:15 to 10:15. An email was sent to everyone involved. Everyone
+accepted the invite.
+
+Panu sent an email to Jyri, our client. We plan to meet on Monday (14th)
+or Tuesday (15th) to discuss further.
+
+We also received Admin rights to the Azure DevOps project. Planning the
+tasks will begin once it is more clear to us what we need to do.
+
+Updated clockify.
+
+-> Overall time spent: 7h 17 min
+
+
+## Sprint 1 (05.11 - 11.11)
+
+This sprint has mostly been prep for the actual project.
+
 
 ### Työpanos ja sitoutuminen
 
@@ -79,7 +108,7 @@ TODO
 TODO
 
 
-## Sprintti 2 (12.11 - 18.11)
+## Sprint 2 (12.11 - 18.11)
 
 ### Työpanos ja sitoutuminen
 
@@ -106,7 +135,7 @@ TODO
 TODO
 
 
-## Sprintti 3 (19.11 - 25.11)
+## Sprint 3 (19.11 - 25.11)
 
 ### Työpanos ja sitoutuminen
 
@@ -133,7 +162,7 @@ TODO
 TODO
 
 
-## Sprintti 4 (26.11 - 01.12)
+## Sprint 4 (26.11 - 01.12)
 
 ### Työpanos ja sitoutuminen
 
@@ -160,7 +189,7 @@ TODO
 TODO
 
 
-## Sprintti 5 (02.11 - 08.11)
+## Sprint 5 (02.11 - 08.11)
 
 ### Työpanos ja sitoutuminen
 
