@@ -78,9 +78,22 @@ Updated clockify.
 -> Overall time spent: 7h 17 min
 
 
-## Sprint 1 (05.11 - 11.11)
+## Sprint 0 (05.11 - 13.11)
 
-This sprint has mostly been prep for the actual project.
+This "sprint" has mostly been prep for the actual project.
+- Learning about the Scrum Process, and how we need to show our progress in Azure.
+- Agreed upon our roles.
+    - Roles written in Azure Wiki.
+
+Had the weekly meeting with teachers on the 10th.
+- Wrote notes about the meeting.
+- Moved my notes about it to the Azure Wiki on the 14th.
+
+Updated clockify.
+
+-> Overall time spent: 16h 59 min
+
+[Clockify from 25th Oct to 16th Nov](https://app.clockify.me/shared/6374fbc30e86361d55287a08)
 
 
 ### Työpanos ja sitoutuminen
@@ -108,7 +121,168 @@ TODO
 TODO
 
 
-## Sprint 2 (12.11 - 18.11)
+## Sprint 1 (14.11 - 20.11)
+
+- Created Daily Scrum Log.
+- Created Wiki entry for Weekly Teacher Meeting.
+- Set the Start and End Date for all 6 Sprints.
+- Created 7 Backlog Items and 33 Tasks.
+    - All tagged.
+    - Set priority and estimated remaining time.
+
+TODO: Program something: Health systems, weapon systems, or player control stuff.
+TODO: Create more tasks.
+TODO: Progress the Scrum Process tasks.
+
+
+### Työpanos ja sitoutuminen
+
+#### My Tasks
+
+I track the tasks I need to complete in my personal notes, and I spend
+a number of hours completing the tasks.
+
+#### Evenly split work
+
+- Asmo will create background art.
+- Jasper and Jasu will work on player and enemy characters.
+- Panu is handling the Product Owner's tasks and will create the introduction for our game.
+- I, Herbert, will oversee the other's work, and help where needed. I
+am at least partially responsible for creating backlog items and tasks
+in Azure. I also keep updating the Wiki, hold the daily scrum and will
+help with programming the player character, items, and weapons. I will
+attempt to keep the project organized and help in planning the architecture.
+
+#### Group guidelines and agreed upon plans
+
+I keep note of dates and times when we are supposed to be having meetings
+or such, I intend to be there on time, and if I can not attend a meeting
+for some reason, I will contact my team.
+
+#### Relationship of Work to Goals of Project
+
+I try to keep my priorities aligned with the vision of the product. I
+write each task with thought and intent, thinking of how to split work
+in suitable chunks. I help the team make constant progress, and dissolve
+any roadblocks by communicating with the team and working hard.
+
+#### Equality in Distribution of Work
+
+I believe we can share the workload quite evenly. So far, I might have
+done the most, but I intend to push the others to work a bit more if I
+see them slacking. I will not do or shoulder everything myself.
+
+The first tasks have just recently been assinged, so it is hard to
+judge the equality of the workloads. I will keep an eye on it and adjust
+accordingly.
+
+#### Other groups
+
+I have no idea how to become familiar with other groups work. I have no
+access to their group chats or Azure. I was under the impression that
+we are not really communicating with the other teams.
+
+#### Importance of My Work to Success of Project
+
+I think my work is important. I can look at some graphs on Azure which
+show that I contribute to the project. Creating good backlog items and
+tasks can help the team progress faster.
+
+#### Advancing Equality in Distribution of Work
+
+If someone looks like they might not be working much, I will try to get
+them to do something. I can assign some easy tasks to lessen the burden
+of entry. If someone wants to maybe do more work, I don't discourage it.
+
+Complete equality and fairness is an impossible goal. As long as everyone
+does their part, the project will succeed. If anyone raises concerns
+regarding the fairness in distribution, I will attempt to solve the
+problem.
+
+#### Implementing Behavior from Other Groups into Ours
+
+I do not implement good practices from other groups, because we have no
+idea what the others are doing.
+
+### Työn seuranta
+
+#### Tracking My Usage of Time
+
+I track time using Clockify and I update the time on my Dev-Blog. I have
+created multiple categories and tags on Clockify so that I can see where
+time is being spent. For example, I track development, meeting, writing,
+DevOps and lecture times separately.
+
+The time spent of various tasks can be fetched from Clockify for the
+duration of each sprint.
+
+I have not enabled billing in Clockify, as I am not actually being
+billed, I do not see it as relevant. Calculating the time afterwards is
+also completely possible using a simple formula: *hours * hourly-pay*. I
+also dislike the idea of pay per hour, which encourages working as much
+as possible and lying about how much you've worked, while discouraging
+and lowering the value of highly productive work.
+
+### Reflektio
+
+#### My Role
+
+My role as the Scrum-master is to:
+
+#### Scrum-master
+
+I read about the Scrum-master role, and watched a number of videos on Youtube.
+
+#### Responsibilities
+
+
+#### How do you make sure you uphold your responsibilities?
+
+I communicate actively with my team. I try to work hard. I don't want
+to completely dissapoint people around me. I also want to get an okay
+grade...
+
+#### Areas with Room for Development
+
+I do not know how to do better.
+
+#### Strengths
+
+I am active and skilled.
+
+### Tehtävät
+
+#### Tasks as Scrum-master
+
+TODO
+
+#### Keeping Track of Tasks
+
+I write everything down. I mark tasks as TODO or DONE.
+
+#### Improving Based on Previous Experience
+
+TODO (Can't write this before anything has even happened.)
+
+### Viestintä
+
+#### Contact with Group
+
+I message the group every day on Discord, I update tasks on Azure and
+I hold the daily scrum.
+
+I respond to the groups messages as soon as possible.
+
+I try to gauge how others react to my communication and adjust
+accordingly. If they were to tell me I am doing something wrong, I would
+try to change my behavior. My impression is that the others consider
+me fairly skilled and capable, and do not have any problem with my
+communication.
+
+TODO: Ask the group about my communication and write down their response here. (Viestintä, Taso 3)
+TODO: How did I improve?
+
+## Sprint 2 (21.11 - 27.11)
 
 ### Työpanos ja sitoutuminen
 
@@ -135,7 +309,7 @@ TODO
 TODO
 
 
-## Sprint 3 (19.11 - 25.11)
+## Sprint 3 (28.11 - 04.12)
 
 ### Työpanos ja sitoutuminen
 
@@ -162,7 +336,7 @@ TODO
 TODO
 
 
-## Sprint 4 (26.11 - 01.12)
+## Sprint 4 (05.12 - 11.12)
 
 ### Työpanos ja sitoutuminen
 
@@ -189,7 +363,7 @@ TODO
 TODO
 
 
-## Sprint 5 (02.11 - 08.11)
+## Sprint 5 (12.12 - 18.12)
 
 ### Työpanos ja sitoutuminen
 
@@ -214,5 +388,33 @@ TODO
 ### Viestintä
 
 TODO
+
+
+## Sprint 6 (19.12 - 25.12)
+
+### Työpanos ja sitoutuminen
+
+TODO
+
+
+### Työn seuranta
+
+TODO
+
+
+### Reflektio
+
+TODO
+
+
+### Tehtävät
+
+TODO
+
+
+### Viestintä
+
+TODO
+
 
 
