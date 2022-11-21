@@ -96,31 +96,6 @@ Updated clockify.
 [Clockify from 25th Oct to 16th Nov](https://app.clockify.me/shared/6374fbc30e86361d55287a08)
 
 
-### Työpanos ja sitoutuminen
-
-TODO
-
-
-### Työn seuranta
-
-TODO
-
-
-### Reflektio
-
-TODO
-
-
-### Tehtävät
-
-TODO
-
-
-### Viestintä
-
-TODO
-
-
 ## Sprint 1 (14.11 - 20.11)
 
 - Created Daily Scrum Log.
@@ -129,10 +104,15 @@ TODO
 - Created 7 Backlog Items and 33 Tasks.
     - All tagged.
     - Set priority and estimated remaining time.
+- Watched lectures.
+- Installed Unreal Engine 5.1.
+- Initialized Github Repo.
+- Had scrum meetings.
+    - Wrote down meeting notes into Azure Wiki.
+- Worked on scrum process tasks on Azure.
+- Held sprint retrospective on the 21st.
 
-TODO: Program something: Health systems, weapon systems, or player control stuff.
-TODO: Create more tasks.
-TODO: Progress the Scrum Process tasks.
+[Clockify Report Link from 17th to 21st.](https://app.clockify.me/shared/637b62b20e86361d553314a7)
 
 
 ### Työpanos ja sitoutuminen
@@ -235,7 +215,6 @@ I read about the Scrum-master role, and watched a number of videos on Youtube.
 
 #### Responsibilities
 
-
 #### How do you make sure you uphold your responsibilities?
 
 I communicate actively with my team. I try to work hard. I don't want
@@ -254,7 +233,10 @@ I am active and skilled.
 
 #### Tasks as Scrum-master
 
-TODO
+I hold the daily scrum, retrospective meetings and take part in sprint
+planning. I keep updating the scrum process tasks on Azure. I communicate
+with the team and help them out if they need any help. I also do a bit
+of programming.
 
 #### Keeping Track of Tasks
 
@@ -284,137 +266,23 @@ TODO: How did I improve?
 
 ## Sprint 2 (21.11 - 27.11)
 
-### Työpanos ja sitoutuminen
+Held the sprint planning meeting and split up work and tasks.
 
-TODO
+Updated some process tasks on Azure.
 
+Updated Wiki entries:
+- Retrospective, planning, daily scrum.
 
-### Työn seuranta
+### Clockify Link from 21st to 27th
 
-TODO
-
-
-### Reflektio
-
-TODO
-
-
-### Tehtävät
-
-TODO
-
-
-### Viestintä
-
-TODO
+[Link <TODO>](TODO)
 
 
 ## Sprint 3 (28.11 - 04.12)
 
-### Työpanos ja sitoutuminen
-
-TODO
-
-
-### Työn seuranta
-
-TODO
-
-
-### Reflektio
-
-TODO
-
-
-### Tehtävät
-
-TODO
-
-
-### Viestintä
-
-TODO
-
-
 ## Sprint 4 (05.12 - 11.12)
-
-### Työpanos ja sitoutuminen
-
-TODO
-
-
-### Työn seuranta
-
-TODO
-
-
-### Reflektio
-
-TODO
-
-
-### Tehtävät
-
-TODO
-
-
-### Viestintä
-
-TODO
-
 
 ## Sprint 5 (12.12 - 18.12)
 
-### Työpanos ja sitoutuminen
-
-TODO
-
-
-### Työn seuranta
-
-TODO
-
-
-### Reflektio
-
-TODO
-
-
-### Tehtävät
-
-TODO
-
-
-### Viestintä
-
-TODO
-
-
 ## Sprint 6 (19.12 - 25.12)
-
-### Työpanos ja sitoutuminen
-
-TODO
-
-
-### Työn seuranta
-
-TODO
-
-
-### Reflektio
-
-TODO
-
-
-### Tehtävät
-
-TODO
-
-
-### Viestintä
-
-TODO
-
-
 
