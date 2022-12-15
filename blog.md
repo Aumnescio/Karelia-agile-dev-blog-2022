@@ -267,8 +267,10 @@ try to change my behavior. My impression is that the others consider
 me fairly skilled and capable, and do not have any problem with my
 communication.
 
-TODO: Ask the group about my communication and write down their response here. (Viestintä, Taso 3)
-TODO: How did I improve?
+Panu said my communication has been very good and versatile, and that things are
+being brought up clearly. My communication also maybe improved during
+the course. We all got more comfortable with each other.
+
 
 ## Sprint 2 (21.11 - 27.11)
 
