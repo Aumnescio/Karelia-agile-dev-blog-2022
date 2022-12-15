@@ -129,9 +129,11 @@ a number of hours completing the tasks.
 - Panu is handling the Product Owner's tasks and will create the introduction for our game.
 - I, Herbert, will oversee the other's work, and help where needed. I
 am at least partially responsible for creating backlog items and tasks
-in Azure. I also keep updating the Wiki, hold the daily scrum and will
-help with programming the player character, items, and weapons. I will
-attempt to keep the project organized and help in planning the architecture.
+in Azure. I also keep updating the Wiki, hold the daily scrum,
+retrospective meetings and the sprint planning sessions, and will
+help with programming the player character, items, and weapons. I
+will attempt to keep the project organized and help in planning the
+architecture.
 
 #### Group guidelines and agreed upon plans
 
@@ -184,7 +186,7 @@ problem.
 I do not implement good practices from other groups, because we have no
 idea what the others are doing.
 
-### Työn seuranta
+### Work tracking
 
 #### Tracking My Usage of Time
 
@@ -207,7 +209,10 @@ and lowering the value of highly productive work.
 
 #### My Role
 
-My role as the Scrum-master is to:
+My role as the Scrum-master is to upkeep scrum within the team. I hold
+the scrum, sprint retrospective, and sprint planning meetings. I also
+work on scrum checklist and actively try to get my team to work more
+effectively.
 
 #### Scrum-master
 
@@ -219,7 +224,7 @@ I read about the Scrum-master role, and watched a number of videos on Youtube.
 
 I communicate actively with my team. I try to work hard. I don't want
 to completely dissapoint people around me. I also want to get an okay
-grade...
+grade.
 
 #### Areas with Room for Development
 
@@ -227,9 +232,9 @@ I do not know how to do better.
 
 #### Strengths
 
-I am active and skilled.
+I am active and skilled. My communication is hopefully okay.
 
-### Tehtävät
+### My Tasks
 
 #### Tasks as Scrum-master
 
@@ -240,20 +245,21 @@ of programming.
 
 #### Keeping Track of Tasks
 
-I write everything down. I mark tasks as TODO or DONE.
+I write everything down. I mark tasks as TODO or DONE. Of course we also
+actively use Azure DevOps, which allows us to track tasks.
 
 #### Improving Based on Previous Experience
 
-TODO (Can't write this before anything has even happened.)
+I learned a lot about scrum and agile practices, and about Azure DevOps.
+I can utilize these tools more effectively now.
 
 ### Viestintä
 
 #### Contact with Group
 
 I message the group every day on Discord, I update tasks on Azure and
-I hold the daily scrum.
-
-I respond to the groups messages as soon as possible.
+I hold the daily scrum. I respond to the groups messages as soon as
+possible.
 
 I try to gauge how others react to my communication and adjust
 accordingly. If they were to tell me I am doing something wrong, I would
@@ -273,16 +279,95 @@ Updated some process tasks on Azure.
 Updated Wiki entries:
 - Retrospective, planning, daily scrum.
 
+On Wednesday we held a planning meeting after the daily scrum.
+
+On Thursday we met with our client, Jyri and the kids. We demoed the
+game for them. They liked how our player character and zombies looked.
+They also wanted us to add sounds to the game, which we were already
+planning to do.
+
+During this sprint we progressed the game mechanics a good bit.
+Specifically the player character and zombie behavior.
+
+We did not quite complete all tasks during the sprint, and realized we
+need to consider the age rating of the game, as it is being created for
+children.
+
+On friday we had the teacher guidance meeting.
+
+We will improve our usage of Azure, splitting tasks into smaller pieces
+and planning better. We will also utilize the in-progress state more.
+
 ### Clockify Link from 21st to 27th
 
-[Link <TODO>](TODO)
+[Link for Sprint 2 Clockify](https://app.clockify.me/shared/639abf98d315f60e197145b6)
 
 
 ## Sprint 3 (28.11 - 04.12)
 
+On Monday morning we held the daily scrum, sprint 2 retro, and sprint 3
+plan. I chose and/or got assinged the job of creating the main menu for
+our game. We settled in our roles and tasks quite well at this point.
+
+On Wednesday we had another group planning session after the daily
+scrum.
+
+On Friday we held daily scrum as usual, and later had the weekly teacher
+meeting.
+
+I worked on the main menu camera transitions.
+
+### Clockify Link from 28th Nov to 4th Dec
+
+[Link for Sprint 3 Clockify](https://app.clockify.me/shared/639ac14d4b48e97a3cba24ad)
+
 ## Sprint 4 (05.12 - 11.12)
 
-## Sprint 5 (12.12 - 18.12)
+We held the scrum, retro and planning session on Monday. We improved our
+use of DevOps since the last sprint, specifically the use of the
+in-progress state, which we agreed to focus on. Division of work also
+went well, and we completed tasks mostly on time. We also adapted to the
+required age-rating. We still could plan the sprint better.
 
-## Sprint 6 (19.12 - 25.12)
+For my next tasks, I'm working on making the widgets interactive and
+making the transitions work between menus. Each other member continues
+work on their respective tasks. We also create the DoD for the sprint.
+
+Halfway through the sprint, things were already progressing well and we
+were approaching the DoD.
+
+We also held the scrum meetings and weekly teacher meeting on time this
+week.
+
+
+### Clockify Link from 5th Dec to 11th Dec
+
+[Link for Sprint 4 Clockify](https://app.clockify.me/shared/639ac2d04b48e97a3cba2706)
+
+
+## Sprint 5 (12.12 - 15.12)
+
+Again, we had the scrum, retro and planning meetings.
+
+We achieved and completed almost everything we planned to in our last
+sprint. We also began work on the final boss. Everything went quite
+well, and our use of DevOps improved again. Remaining work is being more
+actively updated and also being better estimated.
+
+We all kind of felt like we might have a bit more time for this project.
+Ending on the 15th somehow came as a bit of a surprise for us, at least
+it felt kind of sudden. We also could not meet our client this week, so
+we plan to have a final meeting and deliver the product on the 19th.
+
+I got the settings view added into the main menu. Also added a game
+title, and 3D art in the background, though it is not quite finished
+yet. The buttons are also better styled now.
+
+I'm feeling good about everything, and the game is beginning to look
+really nice.
+
+
+### Clockify Link from 12th Dec to 15th Dec
+
+[Link for Sprint 5 Clockify](https://app.clockify.me/shared/639ac322d3c3550ff195877a)
 
