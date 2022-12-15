@@ -19,7 +19,7 @@ I created a clockify workspace and project for the agile project.
 ## Monday, 31st October at 09:45 AM
 
 I watched the second lecture. Honestly, felt like mostly a waste of time.
-We were vaguely introduced to the assingment we will be given. In my case,
+We were vaguely introduced to the assignment we will be given. In my case,
 presumably, I will be programming a game designed by children.
 
 Updated clockify.
@@ -115,7 +115,7 @@ Updated clockify.
 [Clockify Report Link from 17th to 21st.](https://app.clockify.me/shared/637b62b20e86361d553314a7)
 
 
-### Työpanos ja sitoutuminen
+### Contribution and commitment
 
 #### My Tasks
 
@@ -154,7 +154,7 @@ I believe we can share the workload quite evenly. So far, I might have
 done the most, but I intend to push the others to work a bit more if I
 see them slacking. I will not do or shoulder everything myself.
 
-The first tasks have just recently been assinged, so it is hard to
+The first tasks have just recently been assigned, so it is hard to
 judge the equality of the workloads. I will keep an eye on it and adjust
 accordingly.
 
@@ -308,7 +308,7 @@ and planning better. We will also utilize the in-progress state more.
 ## Sprint 3 (28.11 - 04.12)
 
 On Monday morning we held the daily scrum, sprint 2 retro, and sprint 3
-plan. I chose and/or got assinged the job of creating the main menu for
+plan. I chose and/or got assigned the job of creating the main menu for
 our game. We settled in our roles and tasks quite well at this point.
 
 On Wednesday we had another group planning session after the daily
@@ -337,6 +337,12 @@ work on their respective tasks. We also create the DoD for the sprint.
 
 Halfway through the sprint, things were already progressing well and we
 were approaching the DoD.
+
+On Friday, the 9th, I mostly finished the menu functionality. On Saturday,
+with Panu, we cleaned up the remaining Scrum Checklist tasks. Some of
+the checklist tasks did feel quite out-of-place, but we tried our best
+to prove our activity by linking to things we had written and to the
+Azure DevOps task backlogs.
 
 We also held the scrum meetings and weekly teacher meeting on time this
 week.
@@ -373,3 +379,255 @@ really nice.
 
 [Link for Sprint 5 Clockify](https://app.clockify.me/shared/639ac322d3c3550ff195877a)
 
+
+## Self and peer assesment
+
+### Project member: Herbert Salin (Scrum-master)
+
+1. General contribution to the project. (0-5)
+    - In terms of contribution I would give myself a 4. I think I was
+    probably the most active communicator, and most focused on the
+    Scrum process, which was my priority task as Scrum-master. However,
+    I did not contribute as much to developing the game as Jasper. He
+    was very active in developing the game. I still contributed my part,
+    and I helped others actively with issues we faced during the project.
+
+2. Suitability of the role
+    - The role fit me okay, I think. At least I don't feel bad about
+    it. I can't say I feel the most passionate about Scrum, and maybe a
+    number of times felt like there isn't really that much for me to do
+    in terms of trying to "establish scrum". My contribution still
+    helped the team focus on improving our process during the project. I
+    lead planning each sprint, and gave the team direction. During
+    sprint retrospectives I noted parts that could be improved, and most
+    of the time our team did improve on the parts in the next sprint.
+
+3. Success in the roles' work tasks
+    - I already touched on this in the previous two sections. I think I
+    succeeded quite well, and my team gave me positive feedback. I
+    personally felt like I helped the team work better.
+
+4. The member's strengths and weaknesses
+    - I'm quite familiar with Unreal and game-development related things
+    in general, which allows me to easily remove common roadblocks in
+    game-development, like bugs, git conflicts, project architecture problems, and
+    also lets me guide design decisions so that the teams doesn't make
+    things unnecessarily difficult for themselves. I used to consider
+    communication a weakness of mine, but while it isn't anywhere near
+    flawless, I don't think my communication is too bad right now. I can
+    be active and clear enough to be understood well.
+    - As for things to improve; I don't think I spent that much time on
+    the project, maybe I should have spent more. As I mentioned before,
+    it really isn't clear to me what I could realistically do in terms
+    of establishing or advancing scrum, in a small 5 man team, that
+    would require more than 1 hour each day.
+
+5. Personal work/task management (0-5)
+    - I would grade my personal task management 4. My task management
+    included the management of holding daily scrum, sprint retrospectives,
+    sprint planning sessions, reserving the teacher meeting date, wiki
+    writing, and documentation. We held the meeting at the same time
+    very consistently.
+    - In Azure DevOps, I created a number of tasks for myself,
+    and actively estimated the remaining work on the tasks. Mostly I
+    completed my tasks as planned. I also quite often added new tasks,
+    as things progressed.
+    - My work on the tasks was quite bursty. I preferred working in long
+    bursts rather than for example, 1 hour a day consistently.
+
+6. Contribution and commitment to the project (0-5)
+    - I'd give myself a 4 in commitment. I did not spend as much time
+    as I could have on the project, so my commitment to the project was
+    not extremely strong. I was still very committed to my role and all
+    my tasks. I did not miss any meetings, and contributed actively. I
+    completed my development tasks, too. I took notes from all our
+    meetings, and tried to get more out of my teammates.
+
+7. Communication and messaging (0-5)
+    - I'd give myself a 4+ in communication. I just would not say my
+    communication was 5/5. Still, my team gave me positive feedback
+    regarding my communication, and I think I was very active, both in
+    meetings and in Discord chat, and also in my wiki documentation. I
+    wrote nearly all of the Wiki, and I had more Discord messages sent
+    than everyone else combined. I also lead our meetings and probably
+    spoke the most.
+
+
+### Project member: Panu Lehtonen (Product-owner)
+
+1. General contribution to the project. (0-5)
+    - Panu worked hard on the intro-animation. As Product-owner, he was
+    not very active in terms of creating a product backlog. His
+    communication with our client might have been a little bit lacking,
+    considering how few meetings we had with them. He also admitted this
+    himself, saying he probably should be sending emails earlier and
+    more actively. I'd give Panu a 3.5 in terms of contribution.
+
+2. Suitability of the role
+    - I don't really know how to judge this. I feel like Panu mostly
+    worked on the animation sequence in Blender, which was not
+    the primary job of the product-owner. Maybe Panu struggled with
+    creating the product backlog, and prioritising tasks. I don't think
+    he addressed the product backlog at all during the project. I think
+    I and the developers themselves mostly created and prioritised tasks
+    ourselves. There was not necessarily a critical problem with this, but
+    in terms of his Scrum Role, I don't think he fulfilled it very well.
+
+3. Success in the roles' work tasks
+    - Heavily touched on this in the section above. I would rate his
+    success in his roles tasks very low. I don't think he focused on
+    them at all, outside of emailing the client.
+
+4. The member's strengths and weaknesses (things to improve)
+    - Panu is pleasant to work with, and worked hard on the intro
+    animation. He probably could have tried to focus on the tasks of
+    his role a lot more. Not that it personally bothered me, but in
+    terms of acting according to the scrum role, there was a lot left
+    to be desired.
+
+5. Personal work/task management (0-5)
+    - Panu created and completed a couple development tasks for himself
+    each sprint. His task management in terms of his role's job was not well
+    executed. I'd grade his task management a 3.
+
+6. Contribution and commitment to the project (0-5)
+    - I don't feel like Panu's contribution to guiding the direction
+    of the project was very big. His contribution to the game was the
+    intro-animation, which conveyd a part of the project that the kids
+    originally stressed; the story. I think he was committed to the
+    project, but maybe in a way that was not completely aligned with
+    his role. I'd give his contribution and commitment a grade of 3.5.
+
+7. Communication and messaging (0-5)
+    - Panu's communication is clear, but not very assertive or commanding,
+    which maybe the product-owner should be. He is available, willing,
+    and easy to communicate with. I'd give his communication a grade of 3.5.
+
+
+### Project member: Asmo Turunen (Developer)
+
+1. General contribution to the project. (0-5)
+    - Asmo worked as a developer, and his assigned task was the background
+    art. Most of his contribution was finding and importing a 3D scene
+    with roads and buildings. I think he also chose and imported a couple
+    megascans foliage assets. It took him quite a while to get the models
+    into our project. The models imported also seem a bit broken, or
+    badly architectured / packaged. I don't feel like his contribution
+    was large. Anyone could have imported a couple megascans assets. I
+    don't believe he did any programming. Most of the foliage painting
+    was done by Jasper, too. I would give Asmo a grade of 2.
+
+2. Suitability of the role
+    - Considering how little it felt like he achieved, maybe the role or
+    tasks were not well suited for him. However, I don't think his role
+    was difficult, so I have no idea what role would have suited him
+    better. I don't believe he expressed much interest in working on
+    something else.
+
+3. Success in the roles' work tasks
+    - This was mostly covered in section 1.
+
+4. The member's strengths and weaknesses (things to improve)
+    - Maybe Asmo could improve his communication, if he encountered
+    problems, but did not bring them up more. Or if he felt like he
+    wanted to do something else, or if he did not know what exactly he
+    should do. I don't know what strengths Asmo has.
+
+5. Personal work/task management (0-5)
+    - Asmo had very few tasks during the project, and I don't think Asmo's
+    tasks were too difficult. He did eventually complete the tasks, but
+    not many new tasks were assigned to him. He worked quite slow. I
+    could not say his task management was good. I would give his task
+    management a grade of 2.
+
+6. Contribution and commitment to the project (0-5)
+    - As discussed above, I think both his contribution and commitment
+    to the project were the lowest in our group. Not being able to
+    make progress for a number of weeks shows lack of commitment and
+    also results in low contribution. I would give his contribution and
+    commitment a grade of 2.
+
+7. Communication and messaging (0-5)
+    - Asmo had a total of 33 messages in Discord. I had 370+, Panu had
+    90, Jasper had 78. Asmo was also relatively quiet during meetings,
+    but not inactive. I would give his communication a grade of 2.
+
+
+### Project member: Jasper Voutilainen (Developer)
+
+1. General contribution to the project. (0-5)
+    - Grade: 5
+    - He worked very hard and did most of the gameplay related
+    programming.
+
+2. Suitability of the role
+    - He seemed very well suited for his role. He enjoyed himself and
+    produced good output. He had a good bit of previous experience.
+
+3. Success in the roles' work tasks
+    - He was very successful in his role. He created the player character
+    functionality sucessfully, and also create a final boss.  He also
+    worked on the visuals a good bit, and as a result, the game plays
+    and looks nice.
+
+4. The member's strengths and weaknesses (things to improve)
+    - Jasper is hardworking and interested in game-development. Don't
+    really know what he could improve.
+
+5. Personal work/task management (0-5)
+    - Grade: 4.5
+    - Jasper managed his tasks independently on Azure. He created and
+    completed many tasks in each sprint.
+
+6. Contribution and commitment to the project (0-5)
+    - Grade: 5
+    - Jasper seemed very committed to the project. He probably spent the
+    most time on development.
+
+7. Communication and messaging (0-5)
+    - Grade: 4.5
+    - He communicated actively and clearly. The team was aware of what
+    Jasper was doing most of the time. He took an active part in
+    meetings too.
+
+
+### Project member: Jasu Vihonen (Developer)
+
+1. General contribution to the project. (0-5)
+    - Grade: 3.75
+    - Jasu worked on primarily on the zombie enemies. He got the zombies
+    walking and attacking, but struggled a bit and needed help a number
+    of times. He was brave enough to ask for help, which was good,
+    and meant that he did not get stuck for weeks on the same problem.
+    He get the models and animations for the zombies, but also needed
+    some help getting them to work properly. He also found and added
+    some sounds to the game.
+
+2. Suitability of the role
+    - Jasu might not have been very familiar with Unreal beforehand. He
+    still managed to contribute and fulfill his role well enough. I
+    think the role fit him fine.
+
+3. Success in the roles' work tasks
+    - While Jasu did not work completely independently, he was able to
+    successfully complete his tasks and make progress each week.
+
+4. The member's strengths and weaknesses (things to improve)
+    - I like that Jasu was able to ask for help when he needed it. Maybe
+    his weakness was just lacking experience.
+
+5. Personal work/task management (0-5)
+    - Jasu completed multiple tasks and I think his use of Azure DevOps
+    was good. Though it might have taken some time to get used to.
+
+6. Contribution and commitment to the project (0-5)
+    - Grade: 3.5
+    - Jasu's contribution was relevant, and he seemed committed. He
+    didn't miss any meetings and took active part in discussions. He
+    worked on a number of tasks and actively used Azure DevOps.
+
+7. Communication and messaging (0-5)
+    - Jasu's communication was okay, but not very active. He asked for
+    help a number of times, which is good. He was about as active as
+    the others during meetings, but not too active in Discord chat. I'd
+    grade Jasu's communication a 3.5.
